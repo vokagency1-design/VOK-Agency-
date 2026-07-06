@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-bone text-obsidian dark:bg-obsidian dark:text-bone antialiased;
+    font-feature-settings: "ss01" on, "cv01" on;
+  }
+
+  ::selection {
+    @apply bg-gold/30 text-obsidian dark:text-bone;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-gold ring-offset-2 ring-offset-bone dark:ring-offset-obsidian;
+  }
+}
+
+@layer components {
+  .container-vok {
+    @apply mx-auto w-full max-w-7xl px-6 md:px-10;
+  }
+
+  .section-label {
+    @apply font-mono text-xs uppercase tracking-widest2 text-gold-dim dark:text-gold;
+  }
+
+  .gold-rule {
+    @apply h-px w-16 bg-gold-gradient;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-none border border-gold bg-gold px-7 py-3.5 font-body text-sm font-medium uppercase tracking-wider text-obsidian transition-all duration-300 hover:bg-transparent hover:text-gold;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 rounded-none border border-obsidian/20 px-7 py-3.5 font-body text-sm font-medium uppercase tracking-wider text-obsidian transition-all duration-300 hover:border-gold hover:text-gold-dim dark:border-bone/20 dark:text-bone dark:hover:border-gold dark:hover:text-gold;
+  }
+
+  .card-surface {
+    @apply border border-obsidian/10 bg-white/60 backdrop-blur-sm transition-colors dark:border-bone/10 dark:bg-charcoal/60;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

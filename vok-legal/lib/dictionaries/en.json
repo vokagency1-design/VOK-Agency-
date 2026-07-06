@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "siteName": "VOK Legal Agency",
+    "tagline": "Counsel, engineered.",
+    "description": "VOK Legal Agency pairs Erbil-based legal expertise with proprietary AI systems to deliver faster, sharper, and more accountable legal services."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Book a Consultation"
+  },
+  "hero": {
+    "eyebrow": "Erbil · Kurdistan Region · Est. 2026",
+    "title": "Legal counsel, engineered for certainty.",
+    "subtitle": "VOK Legal Agency fuses veteran Kurdish and Iraqi legal practice with AI systems built in-house — turning weeks of legal work into hours, without cutting a single corner.",
+    "ctaPrimary": "Book a Consultation",
+    "ctaSecondary": "View Our Services",
+    "stat1Value": "21",
+    "stat1Label": "AI-Powered Legal Services",
+    "stat2Value": "3",
+    "stat2Label": "Languages of Practice",
+    "stat3Value": "100%",
+    "stat3Label": "Attorney-Reviewed Output",
+    "stat4Value": "24hr",
+    "stat4Label": "Average Response Time"
+  },
+  "sectionLabels": {
+    "services": "§ Services",
+    "pricing": "§ Pricing",
+    "process": "§ Process",
+    "faq": "§ Frequently Asked",
+    "contact": "§ Contact"
+  },
+  "home": {
+    "introTitle": "A firm built the way modern law should be practiced",
+    "introBody": "Every engagement at VOK is staffed by a licensed attorney and reinforced by our proprietary AI research and drafting stack — so you get institutional-grade rigor at the speed of software.",
+    "servicesTitle": "Twenty-one services. One standard of rigor.",
+    "servicesSubtitle": "From contract drafting to cross-border compliance, each service is delivered through the same AI-augmented workflow — reviewed, verified, and signed off by counsel.",
+    "viewAllServices": "View all 21 services",
+    "processTitle": "How an engagement runs",
+    "process1Title": "Intake & Triage",
+    "process1Body": "Our AI intake system classifies your matter, flags jurisdictional issues, and routes it to the right specialist within hours.",
+    "process2Title": "Draft & Analyze",
+    "process2Body": "Our models draft, benchmark, and stress-test documents against Iraqi commercial and labor law before a human ever sees them.",
+    "process3Title": "Counsel Review",
+    "process3Body": "A licensed attorney reviews every AI-generated output line by line — nothing leaves VOK without human sign-off.",
+    "process4Title": "Delivery & Retainer",
+    "process4Body": "You receive final documents plus a living compliance record, monitored continuously for regulatory change.",
+    "ctaTitle": "Ready to move faster on your next matter?",
+    "ctaSubtitle": "Tell us what you're working on. We'll respond within one business day with a scoped plan and fixed quote.",
+    "ctaButton": "Start a Conversation"
+  },
+  "servicesPage": {
+    "title": "Services",
+    "subtitle": "Twenty-one AI-augmented legal services, each delivered end-to-end with licensed attorney oversight.",
+    "categoryAll": "All",
+    "categoryCorporate": "Legal Document Analysis",
+    "categoryLitigation": "Contracts & Review",
+    "categoryCompliance": "Legal Drafting",
+    "categoryIP": "Litigation Support",
+    "categoryPeople": "Legal Research & Case Management",
+    "list": [
+      {
+        "id": "01",
+        "category": "Legal Document Analysis",
+        "title": "Legal Document Summarization",
+        "description": "Condenses lengthy legal documents into clear, accurate summaries your team can act on quickly."
+      },
+      {
+        "id": "02",
+        "category": "Legal Document Analysis",
+        "title": "Legal Memo Summarization",
+        "description": "Distills legal memoranda into concise briefs that highlight the key findings and recommendations."
+      },
+      {
+        "id": "03",
+        "category": "Legal Document Analysis",
+        "title": "Legal Document Formatting",
+        "description": "Standardizes and formats legal documents into a consistent, professional structure ready for filing or signature."
+      },
+      {
+        "id": "04",
+        "category": "Legal Document Analysis",
+        "title": "Legal Data Extraction",
+        "description": "Pulls key clauses, dates, parties, and figures out of legal documents into structured, usable data."
+      },
+      {
+        "id": "05",
+        "category": "Legal Document Analysis",
+        "title": "Legal Record Digitization",
+        "description": "Converts paper-based legal records and archives into searchable, organized digital files."
+      },
+      {
+        "id": "06",
+        "category": "Contracts & Review",
+        "title": "Contract Risk Assessment",
+        "description": "Flags risky clauses, unfavorable terms, and exposure points before a contract is signed."
+      },
+      {
+        "id": "07",
+        "category": "Contracts & Review",
+        "title": "Contract Clause Extraction",
+        "description": "Automatically identifies and extracts key clauses across large contract sets for fast review."
+      },
+      {
+        "id": "08",
+        "category": "Contracts & Review",
+        "title": "Due Diligence Review",
+        "description": "Reviews corporate, financial, and legal documents to surface liabilities and red flags."
+      },
+      {
+        "id": "09",
+        "category": "Contracts & Review",
+        "title": "Legal Draft Review",
+        "description": "Reviews legal drafts for accuracy, consistency, and compliance before they're finalized."
+      },
+      {
+        "id": "10",
+        "category": "Legal Drafting",
+        "title": "NDA Generation",
+        "description": "Generates tailored non-disclosure agreements in minutes, ready for review and signature."
+      },
+      {
+        "id": "11",
+        "category": "Legal Drafting",
+        "title": "Contract Generation",
+        "description": "Drafts commercial and service contracts from your requirements, ready for attorney sign-off."
+      },
+      {
+        "id": "12",
+        "category": "Legal Drafting",
+        "title": "Legal PDF Processing & OCR",
+        "description": "Extracts and processes text from scanned legal PDFs using AI-powered OCR."
+      },
+      {
+        "id": "13",
+        "category": "Legal Drafting",
+        "title": "Legal Translation Services",
+        "description": "Certified legal translation across Arabic, English, and Kurdish Sorani with quality control."
+      },
+      {
+        "id": "14",
+        "category": "Litigation Support",
+        "title": "Case Timeline Creation",
+        "description": "Builds clear, chronological timelines of events for litigation and case preparation."
+      },
+      {
+        "id": "15",
+        "category": "Litigation Support",
+        "title": "Witness Statement Analysis",
+        "description": "Analyzes witness statements to identify inconsistencies, key facts, and supporting evidence."
+      },
+      {
+        "id": "16",
+        "category": "Litigation Support",
+        "title": "Legal Argument Extraction",
+        "description": "Extracts and organizes the core legal arguments from filings, briefs, and case records."
+      },
+      {
+        "id": "17",
+        "category": "Litigation Support",
+        "title": "Deposition Summarization",
+        "description": "Summarizes lengthy depositions into concise, easy-to-reference briefs."
+      },
+      {
+        "id": "18",
+        "category": "Legal Research & Case Management",
+        "title": "Case Law Research",
+        "description": "Searches case law and precedent to support your legal position with citation-backed results."
+      },
+      {
+        "id": "19",
+        "category": "Legal Research & Case Management",
+        "title": "Legal Research Assistant",
+        "description": "An AI research assistant that answers legal questions with sourced references across statutes and precedent."
+      },
+      {
+        "id": "20",
+        "category": "Legal Research & Case Management",
+        "title": "Regulatory Compliance Monitoring",
+        "description": "Continuously tracks regulatory changes relevant to your business and flags what applies to you."
+      },
+      {
+        "id": "21",
+        "category": "Legal Research & Case Management",
+        "title": "Case File Organization",
+        "description": "Organizes case files, evidence, and documents into a structured, easy-to-navigate system."
+      }
+    ]
+  },
+  "pricingPage": {
+    "title": "Pricing",
+    "subtitle": "Transparent, fixed-fee plans built around how modern legal work actually happens.",
+    "note": "All plans include licensed attorney review. Custom scopes available for enterprise and cross-border matters.",
+    "monthly": "Monthly",
+    "perMatter": "Per matter",
+    "getStarted": "Get Started",
+    "mostPopular": "Most Popular",
+    "tiers": [
+      {
+        "name": "Starter",
+        "price": "$189",
+        "period": "/ month",
+        "description": "For individuals and small teams who need reliable core legal support.",
+        "features": [
+          "5 of 21 AI-powered legal services included",
+          "Standard turnaround (48–72 hours)",
+          "Email support",
+          "Monthly usage summary"
+        ]
+      },
+      {
+        "name": "Professional",
+        "price": "$379",
+        "period": "/ month",
+        "description": "For growing businesses that need broader legal coverage on an ongoing basis.",
+        "features": [
+          "10 of 21 AI-powered legal services included",
+          "Priority turnaround (24–48 hours)",
+          "Dedicated attorney point of contact",
+          "Priority email & phone support",
+          "Monthly compliance check-in"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": "$849",
+        "period": "/ month",
+        "description": "For companies that need full-scope legal and compliance coverage.",
+        "features": [
+          "All 21 AI-powered legal services included",
+          "Fastest turnaround (same day – 24 hours)",
+          "Dedicated attorney + AI research team",
+          "Priority support across all channels",
+          "Custom reporting & ongoing advisory"
+        ]
+      }
+    ]
+  },
+  "aboutPage": {
+    "title": "About VOK Legal Agency",
+    "subtitle": "VOK Legal Agency is an AI-powered legal services company based in Erbil, Kurdistan Region, built around a professional team that works together to deliver fast, reliable legal support.",
+    "storyTitle": "Who we are",
+    "storyBody1": "VOK Legal Agency is a professional, team-driven legal services company based in Erbil. We combine the judgment of licensed attorneys with an in-house AI system built specifically for legal work, so routine and complex matters alike move faster without losing accuracy.",
+    "storyBody2": "Our team works collaboratively across every engagement — from AI-assisted drafting and research to final review — so clients always have a dedicated point of contact and a licensed attorney standing behind every deliverable.",
+    "valuesTitle": "What we hold to",
+    "value1Title": "Human sign-off, always",
+    "value1Body": "AI drafts and researches. A licensed attorney reviews and approves. No exceptions.",
+    "value2Title": "Fixed, transparent pricing",
+    "value2Body": "You know the cost before we start. No surprise invoices, no billing by the hour.",
+    "value3Title": "Fluent in three languages",
+    "value3Body": "We work in Arabic, English, and Kurdish Sorani as a matter of course, not as an add-on.",
+    "value4Title": "One coordinated team",
+    "value4Body": "Attorneys, researchers, and our AI systems operate as a single collaborative team on every matter, from intake to delivery."
+  },
+  "faqPage": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the questions we hear most from new clients.",
+    "items": [
+      {
+        "question": "Is my legal work actually reviewed by a human attorney?",
+        "answer": "Yes. Every document, filing, and piece of advice that leaves VOK is reviewed and approved by a licensed attorney. AI accelerates drafting and research; it never replaces professional judgment."
+      },
+      {
+        "question": "Which jurisdictions do you practice in?",
+        "answer": "We practice Iraqi federal law and Kurdistan Regional Government regulation, with experience supporting cross-border matters involving international counterparties."
+      },
+      {
+        "question": "How fast can you turn around a contract?",
+        "answer": "Standard commercial contracts are typically drafted and reviewed within 48 hours. Complex M&A or regulatory matters are scoped individually."
+      },
+      {
+        "question": "Do you offer services in Kurdish and Arabic?",
+        "answer": "Yes. VOK operates natively in Arabic, English, and Kurdish Sorani, including certified legal translation as one of our 21 core services."
+      },
+      {
+        "question": "How is pricing structured?",
+        "answer": "Most engagements run on fixed monthly retainers or fixed per-matter fees, agreed before work begins. Enterprise and cross-border scopes are quoted individually."
+      },
+      {
+        "question": "What happens to my data and documents?",
+        "answer": "All client documents are handled under strict confidentiality agreements and stored in accordance with data privacy best practices; our AI systems do not train on client data."
+      }
+    ]
+  },
+  "contactPage": {
+    "title": "Contact",
+    "subtitle": "Tell us about your matter. A licensed attorney will respond within one business day.",
+    "formName": "Full name",
+    "formEmail": "Email address",
+    "formPhone": "Phone number",
+    "formService": "Service of interest",
+    "formMessage": "Tell us about your matter",
+    "formSubmit": "Send Message",
+    "formSubmitting": "Sending...",
+    "formSuccess": "Message received. We'll respond within one business day.",
+    "formError": "Something went wrong. Please try again or email us directly.",
+    "officeTitle": "Office",
+    "officeAddress": "Erbil, Kurdistan Region, Iraq",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "hoursLabel": "Hours",
+    "hoursValue": "Sun – Thu, 9:00 AM – 6:00 PM"
+  },
+  "footer": {
+    "tagline": "Legal counsel, engineered for certainty.",
+    "linksTitle": "Navigate",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
